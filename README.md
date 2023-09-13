@@ -36,3 +36,4 @@ $ yarn test
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-ller/)
 
 ![Bye, have a wonderful time!](goodby.gif)
+https://i.makeagif.com/media/7-09-2014/O7guJB.gif
